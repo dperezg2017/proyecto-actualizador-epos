@@ -1,0 +1,14 @@
+2020-03-27 16:12:49 INFO  Main:36 - Inicio del Actualizador - ePos
+2020-03-27 16:12:50 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\epos\utilitario\requerimiento-actualizador-epos\ActualizadorEpos
+2020-03-27 16:12:50 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: Asistente de Actualizaci
+2020-03-27 16:12:50 ERROR Main:69 - Error:java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+2020-03-27 16:12:50 ERROR Main:70 - Error Cause:null
+2020-03-27 16:12:50 ERROR Main:71 - Error Message:String index out of range: -1
+2020-03-27 16:27:39 INFO  Main:36 - Inicio del Actualizador - ePos
+2020-03-27 16:27:40 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\epos\utilitario\requerimiento-actualizador-epos\ActualizadorEpos
+2020-03-27 16:27:40 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: Asistente de Actualizaci
+2020-03-27 16:27:40 ERROR Main:69 - Error:java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+2020-03-27 16:27:40 ERROR Main:70 - Error Cause:null
+2020-03-27 16:27:40 ERROR Main:71 - Error Message:String index out of range: -1
+2020-03-27 16:27:46 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\epos\utilitario\requerimiento-actualizador-epos\ActualizadorEpos
+2020-03-27 16:27:46 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: Asistente de Actualizaci

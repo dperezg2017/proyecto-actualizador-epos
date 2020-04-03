@@ -1,0 +1,219 @@
+
+`
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Âõ–
+b
+java:S1192"IDefine a constant instead of duplicating this literal "SERVIDOR" 7 times.( ©¨üıÿÿÿÿ
+k
+java:S1192"WDefine a constant instead of duplicating this literal "REPRESENTACION-IMPRESA" 3 times.(Œ¶¶–
+b
+java:S1192"IDefine a constant instead of duplicating this literal "BACKUP\\" 4 times.(ššˆıÿÿÿÿ
+C
+java:S1066"/Merge this if statement with the enclosing one.(¶Ì‰ã
+H
+java:S1066"/Merge this if statement with the enclosing one.(Í¾Ùüÿÿÿÿ
+<
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+<
+java:S1148"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+<
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+<
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+<
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+K
+java:S2589"7Remove this expression which always evaluates to "true"(¶Ì‰ã
+P
+java:S2589"7Remove this expression which always evaluates to "true"(Í¾Ùüÿÿÿÿ
+P
+java:S2589"7Remove this expression which always evaluates to "true"(Ş›ìëşÿÿÿÿ
+w
+java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "fechaBackup".(Ä›èé
+s
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "version".(¶æûÃ
+C
+java:S2440"*Remove this instantiation of "Constantes".(ŸÜªøùÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(Ä»ÑËşÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(ºÓ²¥üÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(Å³°ûÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(Õ¢Ş„ùÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(ºÓ²¥üÿÿÿÿ
+H
+java:S2209"5Change this instance-reference to a static reference.(Ï‘Ñ%
+N
+java:S2209"5Change this instance-reference to a static reference.(âøå‹şÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(ºÓ²¥üÿÿÿÿ
+I
+java:S2209"5Change this instance-reference to a static reference.(«Õ·Ô
+N
+java:S2209"5Change this instance-reference to a static reference.(¬‚á‚şÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(ºÓ²¥üÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(çÁëûşÿÿÿÿ
+I
+java:S2209"5Change this instance-reference to a static reference.(Õ†Á•
+N
+java:S2209"5Change this instance-reference to a static reference.(Ä»ÑËşÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(»ëü÷ÿÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(ºÓ²¥üÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(ÜÿªÔúÿÿÿÿ
+I
+java:S2209"5Change this instance-reference to a static reference.(Õ†Á•
+N
+java:S2209"5Change this instance-reference to a static reference.(Ä»ÑËşÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(Õ¢Ş„ùÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(âøå‹şÿÿÿÿ
+I
+java:S2209"5Change this instance-reference to a static reference.(Öì•Ã
+N
+java:S2209"5Change this instance-reference to a static reference.(¿ÿªÁşÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(¿ÿªÁşÿÿÿÿ
+f
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Œä¢œ
+N
+java:S2209"5Change this instance-reference to a static reference.(Ä»ÑËşÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(•¶òøüÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(•¶òøüÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(Õ¢Ş„ùÿÿÿÿ
+I
+java:S2209"5Change this instance-reference to a static reference.(€¾™
+I
+java:S2209"5Change this instance-reference to a static reference.(€¾™
+N
+java:S2209"5Change this instance-reference to a static reference.(âøå‹şÿÿÿÿ
+I
+java:S2209"5Change this instance-reference to a static reference.(ö‡µ
+I
+java:S2209"5Change this instance-reference to a static reference.(ö‡µ
+I
+java:S2209"5Change this instance-reference to a static reference.(Öì•Ã
+N
+java:S2209"5Change this instance-reference to a static reference.(¿ÿªÁşÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(¿ÿªÁşÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(±ñİ
+C
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(¿ğáôşÿÿÿÿ
+[
+java:S1858"G"splited" is an array of strings, there's no need to call "toString()".(êİŠı
+I
+java:S2209"5Change this instance-reference to a static reference.(êİŠı
+[
+java:S1858"G"splited" is an array of strings, there's no need to call "toString()".(öæÛÃ
+I
+java:S2209"5Change this instance-reference to a static reference.(šûÛÆ
+[
+java:S1858"G"splited" is an array of strings, there's no need to call "toString()".(ìÛŸß
+I
+java:S2209"5Change this instance-reference to a static reference.(ìÛŸß
+Z
+java:S1858"G"splited" is an array of strings, there's no need to call "toString()".(ÒÄôK
+k
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(¯¥¦–üÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(Ä»ÑËşÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(á—¿×üÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(­ßÎûÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(õÓÿÜúÿÿÿÿ
+I
+java:S2209"5Change this instance-reference to a static reference.(Ë¦í”
+N
+java:S2209"5Change this instance-reference to a static reference.(ùÕ¶ôÿÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(¯õšùÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(Õ¢Ş„ùÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(şÛ¸øÿÿÿÿ
+H
+java:S2209"5Change this instance-reference to a static reference.(ğ»Ãw
+N
+java:S2209"5Change this instance-reference to a static reference.(õÓÿÜúÿÿÿÿ
+I
+java:S2209"5Change this instance-reference to a static reference.(…Øã©
+N
+java:S2209"5Change this instance-reference to a static reference.(ùÕ¶ôÿÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(¯õšùÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(âøå‹şÿÿÿÿ
+I
+java:S2209"5Change this instance-reference to a static reference.(éµâ
+N
+java:S2209"5Change this instance-reference to a static reference.(¿¨—Âúÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(õÓÿÜúÿÿÿÿ
+I
+java:S2209"5Change this instance-reference to a static reference.(Ìö§¹
+N
+java:S2209"5Change this instance-reference to a static reference.(ùÕ¶ôÿÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(¯õšùÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(¬‚á‚şÿÿÿÿ
+H
+java:S2209"5Change this instance-reference to a static reference.(ˆ–¡j
+N
+java:S2209"5Change this instance-reference to a static reference.(åæº–ûÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(õÓÿÜúÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(½ÎÇÓşÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(ùÕ¶ôÿÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(¯õšùÿÿÿÿ
+I
+java:S2209"5Change this instance-reference to a static reference.(Î§¿î
+N
+java:S2209"5Change this instance-reference to a static reference.(¢µ°ıÿÿÿÿ
+f
+java:S1871"MThis branch's code block is the same as the block for the branch on line 314.(ê“¯²ûÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(¶ø¦¨øÿÿÿÿ
+N
+java:S2209"5Change this instance-reference to a static reference.(§ş×üÿÿÿÿ
+U
+java:S1854"<Remove this useless assignment to local variable "exitCode".(è”ªõüÿÿÿÿ
+Z
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Y
+java:S2147"ECombine this catch with the one at line 351, which has the same body.(ä ¹€
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ
+F
+java:S1481"-Remove this unused "exitCode" local variable.(è”ªõüÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(ä…¬ß
+N	java:S125"<This block of commented-out lines of code should be removed.(›ì¯z
+N	java:S125"<This block of commented-out lines of code should be removed.(Ñš›
+O	java:S125"<This block of commented-out lines of code should be removed.(­—Ó
+O	java:S125"<This block of commented-out lines of code should be removed.(¹´’
+T	java:S125"<This block of commented-out lines of code should be removed.(ÀøËñúÿÿÿÿ
+N	java:S125"<This block of commented-out lines of code should be removed.(›ì¯z
+N	java:S125"<This block of commented-out lines of code should be removed.(Ñš›
+O	java:S125"<This block of commented-out lines of code should be removed.(­—Ó
+O	java:S125"<This block of commented-out lines of code should be removed.(¹´’
+O	java:S125"<This block of commented-out lines of code should be removed.(»¤õ
+O	java:S125"<This block of commented-out lines of code should be removed.(•Ê¼»
+T	java:S125"<This block of commented-out lines of code should be removed.(ò‰ ğıÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(è‡é¯ùÿÿÿÿ
